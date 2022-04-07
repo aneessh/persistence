@@ -52,5 +52,14 @@ Ensure the response is communicated to the end-user, both for success and failur
 8. Test the solution locally by running the command `npm run test`.  
 9. Refactor the solution to ensure all test cases are passing.  
 10. DO NOT MODIFY THE PROVIDED CODE, ELSE THIS MAY IMPACT THE TEST CODE EXECUTION.
-11. Zip the solution code by selecting all the files and folders **excluding the node_modules folder** and give the name same as assignment name to the zipped file.
-12. Upload the zipped solution for submission.
+
+## Submitting your solution for preliminary automated review  
+
+ 1. Open https://codereview-wipro.stackroute.in/#/app and login into the platform  
+ 2. Under Assignment repository select `implement-persistence-on-contact-form-data`, and branch master  
+ 3. Under Your solution repository select your own repository and branch  
+ 4. Press Submit  
+ 5. Evaluation will take around 2 mins to complete after which you need to refresh your browser and get the updated status    
+ 6. Press click here for the feedback 
+ 7. Watch out for your total score and detailed status on each test and eslint errors in the coloured blocks on the screen  
+ 8. Fix failing test cases as well as eslint errors and re-submit your solution until you get 100%
